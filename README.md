@@ -2,11 +2,13 @@
 
 Place for code and demo installers to live. Coming soon.
 
-GameJam 2020
+GameJam 2020 Download
 https://globalgamejam.org/2020/games/tower-offense-2
 
 Video of gameplay: LINK
 https://youtu.be/DbOL_ynUj_Q
+
+DOWNLOAD: https://globalgamejam.org/2020/games/tower-offense-2
 
 Screenshot:
 ![Screenshot](https://raw.githubusercontent.com/justinstrawn/Interactive_TowerOffense_Install/master/ss_final_v1_v1.jpg)
